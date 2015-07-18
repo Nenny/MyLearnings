@@ -1,0 +1,27 @@
+When typing commands, ignore the double quotes
+
+How to clone the repo
+1) travel to the desired repository on github to clone
+2) copy url on the right side of the page under HTTPS clone URL using the copy button to the right of the url
+3) open git shell (type git shell in start menu)
+4) Using the "ls" command and the "cd" command, travel to the folder you wish to clone your repo to
+5) use "git clone" then paste the url into the command line by right clicking on it then clicking "paste"
+	ex: git clone https://github.com/Nenny/MyLearnings.git
+
+
+How to push updates / additional files
+
+1) use "git status" to see updates to be made
+2) use "git add -A" if all the changes look correct
+3) use "git commit" and type in a reasonable title
+	ex: Exercise 10 - Finished
+4) use "git push origin master:master" to push changes to repo on github
+	note: you may be prompted for username and password
+
+
+How to pull changes onto a different computer
+
+1) use "git pull origin master:master"
+
+
+
