@@ -22,7 +22,7 @@ How to push updates / additional files
 
 How to pull changes onto a different computer
 
-1) use "git pull"
+1) use "git pull origin"
 
 
 
