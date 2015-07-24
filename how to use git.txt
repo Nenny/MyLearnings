@@ -1,6 +1,7 @@
 When typing commands, ignore the double quotes
 
 How to clone the repo
+
 1) travel to the desired repository on github to clone
 2) copy url on the right side of the page under HTTPS clone URL using the copy button to the right of the url
 3) open git shell (type git shell in start menu)
